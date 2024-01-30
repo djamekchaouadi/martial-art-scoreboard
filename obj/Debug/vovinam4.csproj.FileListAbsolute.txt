@@ -1,0 +1,121 @@
+C:\Users\DJAMEL\source\repos\vovinam4\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+C:\Users\DJAMEL\source\repos\vovinam4\obj\Debug\vovinam4.Form1.resources
+C:\Users\DJAMEL\source\repos\vovinam4\obj\Debug\vovinam4.Properties.Resources.resources
+C:\Users\DJAMEL\source\repos\vovinam4\obj\Debug\vovinam4.csproj.GenerateResource.cache
+C:\Users\DJAMEL\source\repos\vovinam4\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+C:\Users\DJAMEL\source\repos\vovinam4\bin\Debug\vovinam4.exe.config
+C:\Users\DJAMEL\source\repos\vovinam4\bin\Debug\vovinam4.exe
+C:\Users\DJAMEL\source\repos\vovinam4\bin\Debug\vovinam4.pdb
+C:\Users\DJAMEL\source\repos\vovinam4\obj\Debug\vovinam4.exe
+C:\Users\DJAMEL\source\repos\vovinam4\obj\Debug\vovinam4.pdb
+G:\vovinam4\bin\Debug\vovinam4.exe.config
+G:\vovinam4\bin\Debug\vovinam4.exe
+G:\vovinam4\bin\Debug\vovinam4.pdb
+G:\vovinam4\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+G:\vovinam4\obj\Debug\vovinam4.Form1.resources
+G:\vovinam4\obj\Debug\vovinam4.Properties.Resources.resources
+G:\vovinam4\obj\Debug\vovinam4.csproj.GenerateResource.cache
+G:\vovinam4\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+G:\vovinam4\obj\Debug\vovinam4.exe
+G:\vovinam4\obj\Debug\vovinam4.pdb
+G:\vovinam tool fighting latest\vovinam4\bin\Debug\vovinam4.exe.config
+G:\vovinam tool fighting latest\vovinam4\bin\Debug\vovinam4.exe
+G:\vovinam tool fighting latest\vovinam4\bin\Debug\vovinam4.pdb
+G:\vovinam tool fighting latest\vovinam4\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+G:\vovinam tool fighting latest\vovinam4\obj\Debug\vovinam4.Form1.resources
+G:\vovinam tool fighting latest\vovinam4\obj\Debug\vovinam4.Properties.Resources.resources
+G:\vovinam tool fighting latest\vovinam4\obj\Debug\vovinam4.csproj.GenerateResource.cache
+G:\vovinam tool fighting latest\vovinam4\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+G:\vovinam tool fighting latest\vovinam4\obj\Debug\vovinam4.exe
+G:\vovinam tool fighting latest\vovinam4\obj\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\vovinam4 fixed button\bin\Debug\vovinam4.exe.config
+G:\VOVINAM TOOL\vovinam4 fixed button\bin\Debug\vovinam4.exe
+G:\VOVINAM TOOL\vovinam4 fixed button\bin\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\vovinam4 fixed button\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+G:\VOVINAM TOOL\vovinam4 fixed button\obj\Debug\vovinam4.Form1.resources
+G:\VOVINAM TOOL\vovinam4 fixed button\obj\Debug\vovinam4.Properties.Resources.resources
+G:\VOVINAM TOOL\vovinam4 fixed button\obj\Debug\vovinam4.csproj.GenerateResource.cache
+G:\VOVINAM TOOL\vovinam4 fixed button\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+G:\VOVINAM TOOL\vovinam4 fixed button\obj\Debug\vovinam4.exe
+G:\VOVINAM TOOL\vovinam4 fixed button\obj\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\bin\Debug\vovinam4.exe.config
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\bin\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\bin\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\obj\Debug\vovinam4.Form1.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\obj\Debug\vovinam4.Properties.Resources.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\obj\Debug\vovinam4.csproj.GenerateResource.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\obj\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed\obj\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\bin\Debug\vovinam4.exe.config
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\bin\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\bin\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\obj\Debug\vovinam4.Form1.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\obj\Debug\vovinam4.Properties.Resources.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\obj\Debug\vovinam4.csproj.GenerateResource.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\obj\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15\obj\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\bin\Debug\vovinam4.exe.config
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\bin\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\bin\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\obj\Debug\vovinam4.Form1.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\obj\Debug\vovinam4.Properties.Resources.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\obj\Debug\vovinam4.csproj.GenerateResource.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\obj\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fixed button maximazed -15 +2\obj\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\bin\Debug\vovinam4.exe.config
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\bin\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\bin\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\obj\Debug\vovinam4.Form1.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\obj\Debug\vovinam4.Properties.Resources.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\obj\Debug\vovinam4.csproj.GenerateResource.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\obj\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 semi fini\obj\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\vovinam4 fini\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+G:\VOVINAM TOOL\vovinam4 fini\obj\Debug\vovinam4.Form1.resources
+G:\VOVINAM TOOL\vovinam4 fini\obj\Debug\vovinam4.Properties.Resources.resources
+G:\VOVINAM TOOL\vovinam4 fini\obj\Debug\vovinam4.csproj.GenerateResource.cache
+G:\VOVINAM TOOL\vovinam4 fini\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+G:\VOVINAM TOOL\vovinam4 fini\obj\Debug\vovinam4.exe
+G:\VOVINAM TOOL\vovinam4 fini\obj\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\vovinam4 fini\bin\Debug\vovinam4.exe.config
+G:\VOVINAM TOOL\vovinam4 fini\bin\Debug\vovinam4.exe
+G:\VOVINAM TOOL\vovinam4 fini\bin\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\bin\Debug\vovinam4.exe.config
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\bin\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\bin\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.Form1.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.Properties.Resources.resources
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.csproj.GenerateResource.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.exe
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.pdb
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\bin\Debug\vovinam4.exe.manifest
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\bin\Debug\vovinam4.application
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.exe.manifest
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.application
+G:\VOVINAM TOOL\countdowntimer_0\vovinam4 fini\obj\Debug\vovinam4.Form2.resources
+C:\Users\DJAMEL\Desktop\vovinam4 fini\bin\Debug\vovinam4.exe.config
+C:\Users\DJAMEL\Desktop\vovinam4 fini\bin\Debug\vovinam4.exe.manifest
+C:\Users\DJAMEL\Desktop\vovinam4 fini\bin\Debug\vovinam4.application
+C:\Users\DJAMEL\Desktop\vovinam4 fini\bin\Debug\vovinam4.exe
+C:\Users\DJAMEL\Desktop\vovinam4 fini\bin\Debug\vovinam4.pdb
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.csproj.AssemblyReference.cache
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.Form1.resources
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.Form2.resources
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.Properties.Resources.resources
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.csproj.GenerateResource.cache
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.csproj.CoreCompileInputs.cache
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.exe.manifest
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.application
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.exe
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.pdb
+C:\Users\DJAMEL\Desktop\vovinam4 fini\obj\Debug\vovinam4.Form3.resources

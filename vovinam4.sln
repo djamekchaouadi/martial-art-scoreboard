@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vovinam4", "vovinam4.csproj", "{8A83C626-40C4-47EF-9BD2-3238B8BD784C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A83C626-40C4-47EF-9BD2-3238B8BD784C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A83C626-40C4-47EF-9BD2-3238B8BD784C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A83C626-40C4-47EF-9BD2-3238B8BD784C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A83C626-40C4-47EF-9BD2-3238B8BD784C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFBBA727-11AD-4763-B6DE-0F8DAC44224E}
+	EndGlobalSection
+EndGlobal
